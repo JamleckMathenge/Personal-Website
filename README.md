@@ -7,9 +7,9 @@ Welcome to my personal website! This platform serves as a dynamic showcase of my
 ### Contact Information: Facilitate seamless communication by offering multiple channels for visitors to reach out, whether for inquiries, collaboration opportunities, or networking.
 ### Responsive Design: Ensure a delightful user experience across various devices and screen sizes, maintaining accessibility and visual integrity.
 ## Technologies Used
-HTML: For structuring the content and layout of the website.
-CSS: To enhance the visual presentation and styling of the website.
-JavaScript: Adding interactivity and dynamic elements to the website.
+#### HTML: For structuring the content and layout of the website.
+#### CSS: To enhance the visual presentation and styling of the website.
+#### JavaScript: Adding interactivity and dynamic elements to the website.
 ## Quality Assurance
 ### Professional Coding Standards: The website is meticulously crafted in accordance with industry conventions and best practices for well-scripted code.
 ### Regular Updates: I review the website daily, updating it regularly to keep it as up-to-date as possible. New features and improvements are added continuously to enhance its functionality and relevance.
